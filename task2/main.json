@@ -1,0 +1,26 @@
+{
+    "Students" : [
+        {
+            "name":"A.Arjun",
+            "role":"PHP Developer",
+            "experience":"Fresher",
+            "photo":"https://data.whicdn.com/images/304609542/original.jpg",
+            "link" : "arjun.html"
+        },
+        {
+            "name":"M.Ramya",
+            "role":"Python Developer",
+            "experience":"Fresher",
+            "photo":"https://i.pinimg.com/originals/d6/24/f7/d624f7875bb20d70d368d121250c0770.jpg",
+            "link" : "ramya.html"
+        },
+        {
+            "name":"T.Tanusha",
+            "role":"Web designer",
+            "experience":"Fresher",
+            "photo":"https://cdna.artstation.com/p/assets/images/images/018/843/384/medium/blanche-art-99896329-d665-463e-baba-6b2a4eee3650.jpg?1560944028",
+            "link" : "tanusha.html"
+        }
+
+    ]
+}

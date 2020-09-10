@@ -1,0 +1,82 @@
+{
+    "arjun" :[
+        {
+            "name" : "A.Arjun",
+            "address" : ["SF-02", "Geetanjali", "Apartment,", 
+            "NGO's", "Colony"],
+            "phone" : "9998877665",
+            "email": "arjun.a@gmail.com",
+            
+            "co":["To", "achieve", "challenging", "position", "in", "web", "development", "industry", "and", "to", "use",
+                "my", "skills", "for", "the", "growth", "of", "the", "organization"]
+        }
+            
+    ],
+    
+    "edu" : [
+        {
+            "grade" : "Grade",
+            "spcial" : "Specialization",
+            "insti" : ["Institute", "Name"],
+            "gpa" : "GPA/%",
+            "pyear" : "PYear"
+        },
+        {
+            "grade" : "10th",
+            "spcial" : "SSC",
+            "insti" : ["HI", "high", "School"],
+            "gpa" : "90%",
+            "pyear" : "2014"
+        },
+        {
+            "grade" : "Intermediate",
+            "spcial" : "MPC",
+            "insti" : ["CBA", "jnr", "College"],
+            "gpa" : "92%",
+            "pyear" : "2016"
+        },
+        {
+            "grade" : "B.Tech",
+            "spcial" : "ECE",
+            "insti" : ["XYZ", "Engineering", "College"],
+            "gpa" : "8.5",
+            "pyear" : "2020"
+        }
+    ],
+
+    "intern" : {
+        "l" : ["Summer","Internship"],
+        "he" : "MobileHub",
+        "l1" : ["Carried", "out", "as", "an", "IOS", "mobile", "developer", "in", "a", "startup", "Callhub", "which", "automates", "call", "center", "services."],
+        "l2"  : ["Designed", "and", "developed", "the", "application", "from", "scratch", "leveraging", "Swift."],
+        "l3" :["The", "website", "consists", "of", "login", "page,", "patients", "details", "page", "and", "a", "page", "for", "rasing", "funds", "for", "patients."]
+    },
+    
+    "train":
+        { 
+       "lang1" : ["Programming","Languages",":"],
+        "OS1": ["Operating", "System",":"],
+        "tools1" : ["Software","Tools",":"],
+        "web1" : ["Web","Techonologies",":"],
+        "lang" : ["C,","Python,","PHP,","Java-programming"],
+        "OS" : ["Windows", "2000", "XP","windows7," ,"Linux"],
+        "tools" : ["Ms Office,","Visual", "Studio"],
+        "web" : ["HTML,","CSS,","Js"]
+        },
+    "project":
+        {
+        "mini1":["Mini", "project"],
+        "capstone1":["Capstone","Project"],
+        "mini" : ["Developed", "a", "sample", "shopping", "website", "using", "local", "server", "using", "PHP.", "It", "dumps", "the", "new", "product", "details", "into", "the", 
+                "local", "server", "database."],
+        "capstone" : ["Developed", "a", "website", "for", "Fund", "Raising", "for", "patients", "in", "need", "using", "HTML,","CSS,","PHP,","SQL,","Js.",
+                "The", "website", "consists", "of", "login", "page,", "patients", "details", "page", "and", "a", "page", "for", "rasing", "funds", "for", "patients."]
+            },
+    "addi" : {
+        "l" :["Additional","Skills",":"],
+        "l1":["Representive", "of", "branch", "in", "college."],
+        "l2":["Good", "at", "communication."],
+        "l3":["Runner", "up", "in", "volley", "ball."]
+    }
+        
+}
